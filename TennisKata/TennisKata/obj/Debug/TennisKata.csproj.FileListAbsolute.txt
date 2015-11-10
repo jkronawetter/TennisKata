@@ -1,0 +1,5 @@
+C:\Projects\TennisKata\TennisKata\obj\Debug\TennisKata.csprojResolveAssemblyReference.cache
+C:\Projects\TennisKata\TennisKata\obj\Debug\TennisKata.pdb
+C:\Projects\TennisKata\TennisKata\bin\Debug\TennisKata.dll
+C:\Projects\TennisKata\TennisKata\bin\Debug\TennisKata.pdb
+C:\Projects\TennisKata\TennisKata\obj\Debug\TennisKata.dll

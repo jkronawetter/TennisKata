@@ -1,0 +1,8 @@
+C:\Projects\TennisKata\TennisKataConsole\bin\Debug\TennisKataConsole.exe.config
+C:\Projects\TennisKata\TennisKataConsole\bin\Debug\TennisKataConsole.exe
+C:\Projects\TennisKata\TennisKataConsole\bin\Debug\TennisKataConsole.pdb
+C:\Projects\TennisKata\TennisKataConsole\bin\Debug\TennisKata.dll
+C:\Projects\TennisKata\TennisKataConsole\bin\Debug\TennisKata.pdb
+C:\Projects\TennisKata\TennisKataConsole\obj\Debug\TennisKataConsole.csprojResolveAssemblyReference.cache
+C:\Projects\TennisKata\TennisKataConsole\obj\Debug\TennisKataConsole.exe
+C:\Projects\TennisKata\TennisKataConsole\obj\Debug\TennisKataConsole.pdb
